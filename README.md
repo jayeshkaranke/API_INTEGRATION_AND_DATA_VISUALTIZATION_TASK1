@@ -23,6 +23,7 @@ Use icons or color codes
 Dynamic city input
 Save data to CSV
 Build a GUI or web app Internship Task Checklist: [x] API integration implemented [x] Data extraction working [x] Visualization generated and saved [x] Output image created [x] Task ready for submission Sample GitHub README:
+
 Weather Forecast Visualization using OpenWeatherMap API
 This Python script fetches 5-day weather forecast data for Mumbai and visualizes it using a line chart. Features:
 
@@ -34,4 +35,7 @@ matplotlib
 requests How to Run:
 Replace API key in task1.py
 Run python task1.py
-Output saved as weather_forecast_chart.png Conclusion: This project shows end-to-end implementation of an API-driven data visualization task using Python. It demonstrates technical understanding and real-world data handling, ideal for internships or resumes. End of Document. OUTPUT : Image
+
+Output saved as weather_forecast_chart.png Conclusion: This project shows end-to-end implementation of an API-driven data visualization task using Python. It demonstrates technical understanding and real-world data handling, ideal for internships or resumes. End of Document. OUTPUT : 
+![image](https://github.com/user-attachments/assets/475683e9-c940-4b75-980f-88dac61477d7)
+
