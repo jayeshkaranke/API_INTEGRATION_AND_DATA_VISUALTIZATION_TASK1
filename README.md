@@ -1,5 +1,5 @@
 # API_INTEGRATION_AND_DATA_VISUALTIZATION_TASK1 
-COMPANY : CODTECH IT SOLUTONS NAME : JAYESH KARANKE INTERN ID : CT04DF2754 DOMIAN : PYTHON PROGRAMMING DURATION : 4 WEEKS MENTOR : NEELA SANTOSH KUMAR DESCRIPTION OF TASK  [https://github.com/jayeshkaranke/API_INTEGRATION_AND_DATA_VISUALTIZATION_TASK1/issues/1] Internship Task 1 - Weather Forecast Visualization Project Title: Weather Forecast Data Visualization using OpenWeatherMap API in Python Objective: To develop a Python application that fetches real-time weather forecast data for a city (Mumbai) using the OpenWeatherMap API and visualizes the temperature trends for the next 5 days using a line graph. Technologies Used:
+COMPANY : CODTECH IT SOLUTONS NAME : JAYESH KARANKE INTERN ID : CT04DF2754 DOMIAN : PYTHON PROGRAMMING DURATION : 4 WEEKS MENTOR : NEELA SANTOSH KUMAR DESCRIPTION OF TASK  [https://github.com/jayeshkaranke/API_INTEGRATION_AND_DATA_VISUALTIZATION_TASK1/issues/1.pdf] Internship Task 1 - Weather Forecast Visualization Project Title: Weather Forecast Data Visualization using OpenWeatherMap API in Python Objective: To develop a Python application that fetches real-time weather forecast data for a city (Mumbai) using the OpenWeatherMap API and visualizes the temperature trends for the next 5 days using a line graph. Technologies Used:
 
 Programming Language: Python
 API Provider: OpenWeatherMap
